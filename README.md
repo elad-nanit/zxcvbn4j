@@ -63,6 +63,7 @@ This is a Java version of [zxcvbn](https://github.com/dropbox/zxcvbn), a passwor
 - French ([fr](./src/main/resources/com/nulabinc/zxcvbn/messages_fr.properties))
 - Italian ([it](./src/main/resources/com/nulabinc/zxcvbn/messages_it.properties))
 - Spanish ([es](./src/main/resources/com/nulabinc/zxcvbn/messages_es.properties))
+- Hebrew ([iw](./src/main/resources/com/nulabinc/zxcvbn/messages_iw.properties))
 
 ### JIS Keyboard Layout Support
 
