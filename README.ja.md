@@ -64,6 +64,8 @@ zxcvbn4j は、JavaScriptのパスワード強度ジェネレータである[zxc
 - German ([de](./src/main/resources/com/nulabinc/zxcvbn/messages_de.properties))
 - French ([fr](./src/main/resources/com/nulabinc/zxcvbn/messages_fr.properties))
 - Italian ([it](./src/main/resources/com/nulabinc/zxcvbn/messages_it.properties))
+- Spanish ([es](./src/main/resources/com/nulabinc/zxcvbn/messages_es.properties))
+- Portuguese ([pt](./src/main/resources/com/nulabinc/zxcvbn/messages_pt.properties))
 
 ### JISキーボードに対応
 
@@ -76,12 +78,12 @@ zxcvbn4j は、JavaScriptのパスワード強度ジェネレータである[zxc
 
 ## インストール
 
-https://mvnrepository.com/artifact/com.nulab-inc/zxcvbn/1.8.2
+https://mvnrepository.com/artifact/com.nulab-inc/zxcvbn/1.9.0
 
 Gradle:
 
 ```
-compile 'com.nulab-inc:zxcvbn:1.8.2'
+compile 'com.nulab-inc:zxcvbn:1.9.0'
 ```
 
 Maven:
@@ -90,7 +92,7 @@ Maven:
 <dependency>
   <groupId>com.nulab-inc</groupId>
   <artifactId>zxcvbn</artifactId>
-  <version>1.8.2</version>
+  <version>1.9.0</version>
 </dependency>
 ```
 
